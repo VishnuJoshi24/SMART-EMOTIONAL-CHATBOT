@@ -1,0 +1,7 @@
+.env
+users.json
+crisis_alerts.json
+chroma_db/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
